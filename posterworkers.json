@@ -744,5 +744,5 @@
 {"origin":"Iceland","destination":"Poland","value": 20.0 },
 {"origin":"Iceland","destination":"United Kingdom","value": 20.0 },
 {"origin":"Iceland","destination":"Norway","value": 42.0 },
-{"origin":"Iceland","destination":"Switzerland","value": 4.0 },
+{"origin":"Iceland","destination":"Switzerland","value": 4.0 }
 ]
